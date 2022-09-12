@@ -1,0 +1,48 @@
+2022.09.12 22:59:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Asus VivoBook\Desktop\1\.metals\lsp.trace.json or C:\Users\Asus VivoBook\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.12 22:59:06 INFO  logging to file C:\Users\Asus VivoBook\Desktop\1\.metals\metals.log
+2022.09.12 22:59:06 INFO  Started: Metals version 0.11.8+38-1832a3cf-SNAPSHOT in workspace 'C:\Users\Asus VivoBook\Desktop\1' for client Visual Studio Code 1.71.0.
+2022.09.12 22:59:07 INFO  time: initialize in 1.56s
+2022.09.12 22:59:09 WARN  Build server is not auto-connectable.
+2022.09.12 22:59:09 WARN  no build tool detected in workspace 'C:\Users\Asus VivoBook\Desktop\1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.12 22:59:09 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 22:59:13 INFO  no build target found for C:\Users\Asus VivoBook\Desktop\1\1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.09.12 22:59:14 INFO  time: code lens generation in 4.54s
+2022.09.12 23:10:46 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:10:48 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:10:54 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:10:56 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:10:57 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:11:03 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:11:25 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:11:27 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\1.scala
+2022.09.12 23:12:42 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\2.scala
+2022.09.12 23:13:09 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\2.scala
+2022.09.12 23:15:04 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:15:25 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:03 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:11 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:14 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:21 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:22 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:25 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:27 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:30 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:33 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:37 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:39 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:16:43 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:17:19 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:17:23 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:17:27 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:17:30 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:18:10 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\3.scala
+2022.09.12 23:19:19 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:19:39 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:14 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:17 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:20 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:23 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:27 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:30 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:33 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
+2022.09.12 23:20:36 WARN  no build target for: C:\Users\Asus VivoBook\Desktop\1\4.scala
